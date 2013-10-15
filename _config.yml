@@ -1,0 +1,6 @@
+destination: ./_site
+lsi:         false
+pygments:    true
+permalink:   date
+exclude:     [hyperopt, LICENSE.txt, README.txt, build, dist, distribute_setup.py, hyperopt.egg-info, recipes, RELEASE.txt, scripts, setup.py]
+
